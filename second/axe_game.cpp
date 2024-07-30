@@ -1,7 +1,6 @@
 #include <raylib.h>
-#include <iostream>
 
 int main()
 {
-  printf("11\n");
+  InitWindow(500, 500, "Test");
 }
